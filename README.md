@@ -121,7 +121,7 @@ Je recherche une **institution partenaire pour un projet pilote** : démonstrati
 ## Contact
 
 **N'Dri Jaurès**, fondateur et développeur
-📧 jjaures077@gmail.com · 💼 [LinkedIn](#) <!-- remplacer # par l'adresse de ton profil -->
+📧 jjaures077@gmail.com · 💼 [LinkedIn](www.linkedin.com/in/konan-jean-jaures-n-dri-380255273) <!-- remplacer # par l'adresse de ton profil -->
 
 ---
 
