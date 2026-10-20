@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/7344ca88-55a0-428f-98d7-fd82585d4d6a
+
 
 # 🌾 AgriCredit AI
 
@@ -77,7 +77,7 @@ Le portefeuille en un coup d'œil, et les causes de refus avec l'action recomman
 ## Vidéo de démonstration (3 minutes)
 
 <!-- Pour intégrer la vidéo : éditer ce fichier sur github.com, glisser-déposer le fichier .mp4 ici, puis enregistrer. -->
-_Vidéo à venir sur cette page._
+[_Vidéo à venir sur cette page._](https://github.com/user-attachments/assets/7344ca88-55a0-428f-98d7-fd82585d4d6a)
 
 ---
 
