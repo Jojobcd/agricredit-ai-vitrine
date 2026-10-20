@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/7344ca88-55a0-428f-98d7-fd82585d4d6a
+
 # 🌾 AgriCredit AI
 
 **Le logiciel de crédit agricole clé en main pour les institutions de microfinance et les coopératives, utilisable même sans internet sur le terrain.**
